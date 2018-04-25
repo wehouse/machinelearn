@@ -9,13 +9,13 @@ In Theory and Practice
 * Basic overview of Data Science and Machine Learning
 * Machine Learning Toolspace
   * Python vs R
+  * Anaconda Distributions
   * Python Libraries of Significance
     * SciKit-learn
     * TensorFlow
     * Keras
     * Numpy
     * MatPlotLib/Seaborn
-    * Anaconda Distributions
 
 ---
 
@@ -42,6 +42,13 @@ In Theory and Practice
 ---
 ### Python vs R II
 ![](https://www.edvancer.in/wp-content/uploads/2016/09/Data-Scientist-vs-Predictive-Analytics-1024x569.png)
+
+---
+#### Anaconda Distributions
+* Anaconda: 150 packages in total, roughly 3GB in download. Great for offline use-cases.
+* Miniconda: Only absolute needed libraries to run conda and environment. Great for online and expert users.
+
+- Anaconda Navigator and Jupyter/Spyder are available in both.
 
 ---
 
@@ -72,11 +79,4 @@ In Theory and Practice
 #### Numpy EcoSystem
 ![Numpy Ecosystem](https://image.slidesharecdn.com/introductiontonumpy-130416133754-phpapp02/95/introduction-to-numpy-pydata-sv-2013-5-638.jpg?cb=1367252805)
     
----
-#### Anaconda Distributions
-* Anaconda: 150 packages in total, roughly 3GB in download. Great for offline use-cases.
-* Miniconda: Only absolute needed libraries to run conda and environment. Great for online and expert users.
-
-- Anaconda Navigator and Jupyter/Spyder are available in both.
-
 --- 
