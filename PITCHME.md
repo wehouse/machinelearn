@@ -24,21 +24,18 @@ In Theory and Practice
   * Neural Networks
 
 
----
+---?image=https://i0.wp.com/s3.amazonaws.com/acadgildsite/wordpress_images/bigdatadeveloper/Devil+Is+in+the+Detail+Data+Science%2C+Artificial+Learning%2C+Machine+Learning%2C+and+Deep+Learning/9-img9.png?resize=461%2C290&ssl=1
 
 ## Data Science and Machine Learning
 
-![](https://i0.wp.com/s3.amazonaws.com/acadgildsite/wordpress_images/bigdatadeveloper/Devil+Is+in+the+Detail+Data+Science%2C+Artificial+Learning%2C+Machine+Learning%2C+and+Deep+Learning/9-img9.png?resize=461%2C290&ssl=1)
 
----
+---?image=https://www.securonix.com/wp-content/uploads/2017/11/Img1.png
 
 ### Holistic View of Data Science
-![Holistic View of Data Science](https://www.securonix.com/wp-content/uploads/2017/11/Img1.png)
 
----
+---?image=https://cdn-images-1.medium.com/max/800/1*3kgS90tV1354VvHAyN-HSA.png
 
 ### How start-ups see ML and Data Science 
-![Startup ML](https://cdn-images-1.medium.com/max/800/1*3kgS90tV1354VvHAyN-HSA.png)
 
 ---
 
@@ -46,13 +43,12 @@ In Theory and Practice
 * Python vs R vs SAS (surprise!)
 * Libraries of Significance
 
----
+---?image=http://www.edvancer.in/wp-content/uploads/2016/09/Tools-used-in-data-science-industry.png
 ### Python vs R I
-![Industries Use of Tool](http://www.edvancer.in/wp-content/uploads/2016/09/Tools-used-in-data-science-industry.png)
 
----
+---?image=http://www.edvancer.in/wp-content/uploads/2016/09/Data-Scientist-vs-Predictive-Analytics-1024x569.png
 ### Python vs R II
-![Data Science vs Predictive Analytics](http://www.edvancer.in/wp-content/uploads/2016/09/Data-Scientist-vs-Predictive-Analytics-1024x569.png)
+
 
 ---
 
