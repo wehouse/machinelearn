@@ -24,12 +24,12 @@ In Theory and Practice
   * Neural Networks
 
 
----?image=https://i0.wp.com/s3.amazonaws.com/acadgildsite/wordpress_images/bigdatadeveloper/Devil+Is+in+the+Detail+Data+Science%2C+Artificial+Learning%2C+Machine+Learning%2C+and+Deep+Learning/9-img9.png?resize=461%2C290&ssl=1
+---?
 
 ## Data Science and Machine Learning
+![Data Science and Machine Learning](image=https://i0.wp.com/s3.amazonaws.com/acadgildsite/wordpress_images/bigdatadeveloper/Devil+Is+in+the+Detail+Data+Science%2C+Artificial+Learning%2C+Machine+Learning%2C+and+Deep+Learning/9-img9.png?resize=461%2C290&ssl=1)
 
-
----?image=https://www.securonix.com/wp-content/uploads/2017/11/Img1.png
+---?image=https://www.securonix.com/wp-content/uploads/2017/11/Img1.png?size=auto 80%
 
 ### Holistic View of Data Science
 
@@ -46,7 +46,7 @@ In Theory and Practice
 ---?image=http://www.edvancer.in/wp-content/uploads/2016/09/Tools-used-in-data-science-industry.png
 ### Python vs R I
 
----?image=http://www.edvancer.in/wp-content/uploads/2016/09/Data-Scientist-vs-Predictive-Analytics-1024x569.png
+---?image=http://www.edvancer.in/wp-content/uploads/2016/09/Data-Scientist-vs-Predictive-Analytics-1024x569.png?size=auto 80%
 ### Python vs R II
 
 
