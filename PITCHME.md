@@ -43,10 +43,10 @@ In Theory and Practice
 * Python vs R vs SAS (surprise!)
 * Libraries of Significance
 
----?image=http://www.edvancer.in/wp-content/uploads/2016/09/Tools-used-in-data-science-industry.png
+---?image=https://www.edvancer.in/wp-content/uploads/2016/09/Tools-used-in-data-science-industry.png
 ### Python vs R I
 
----?image=http://www.edvancer.in/wp-content/uploads/2016/09/Data-Scientist-vs-Predictive-Analytics-1024x569.png?size=auto 80%
+---?image=https://www.edvancer.in/wp-content/uploads/2016/09/Data-Scientist-vs-Predictive-Analytics-1024x569.png?size=auto 60%
 ### Python vs R II
 
 
