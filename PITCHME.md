@@ -46,7 +46,7 @@ In Theory and Practice
 ---?image=https://www.edvancer.in/wp-content/uploads/2016/09/Tools-used-in-data-science-industry.png
 ### Python vs R I
 
----?image=https://www.edvancer.in/wp-content/uploads/2016/09/Data-Scientist-vs-Predictive-Analytics-1024x569.png?size=auto 60%
+---?image=https://www.edvancer.in/wp-content/uploads/2016/09/Data-Scientist-vs-Predictive-Analytics-1024x569.png
 ### Python vs R II
 
 
