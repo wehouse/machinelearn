@@ -22,6 +22,11 @@ In Theory and Practice
 ## Data Science and Machine Learning
 ![Data Science and Machine Learning](https://i0.wp.com/s3.amazonaws.com/acadgildsite/wordpress_images/bigdatadeveloper/Devil+Is+in+the+Detail+Data+Science%2C+Artificial+Learning%2C+Machine+Learning%2C+and+Deep+Learning/9-img9.png?resize=461%2C290&ssl=1)
 
+---
+## Different Types of Machine Learning
+
+![Supervised vs Unsupervised Learning](http://cdn.differencebetween.net/wp-content/uploads/2018/01/Differences-Between-Supervised-Learning-and-Unsupervised-Learning.png)
+
 ---?image=https://www.securonix.com/wp-content/uploads/2017/11/Img1.png&size=auto 80%
 
 ### Holistic View of Data Science
